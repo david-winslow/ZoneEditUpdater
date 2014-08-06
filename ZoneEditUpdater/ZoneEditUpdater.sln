@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoneEditUpdater", "ZoneEditUpdater\ZoneEditUpdater.csproj", "{5350D410-1354-4515-B759-0BED67A3F705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoneEditUpdaterService", "ZoneEditUpdaterService\ZoneEditUpdaterService.csproj", "{346B2441-1C5C-483F-96E5-D3E70AEF5100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "ClassLibrary1\Tests.csproj", "{1BBE618C-F57A-4212-9F8F-BCD2BD97B293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5350D410-1354-4515-B759-0BED67A3F705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5350D410-1354-4515-B759-0BED67A3F705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5350D410-1354-4515-B759-0BED67A3F705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346B2441-1C5C-483F-96E5-D3E70AEF5100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346B2441-1C5C-483F-96E5-D3E70AEF5100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346B2441-1C5C-483F-96E5-D3E70AEF5100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346B2441-1C5C-483F-96E5-D3E70AEF5100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBE618C-F57A-4212-9F8F-BCD2BD97B293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBE618C-F57A-4212-9F8F-BCD2BD97B293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBE618C-F57A-4212-9F8F-BCD2BD97B293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBE618C-F57A-4212-9F8F-BCD2BD97B293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
